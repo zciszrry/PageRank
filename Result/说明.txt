@@ -1,0 +1,1 @@
+basic_result即基本的PageRank算法的结果，Block_stripe_result即分块算法结果。
